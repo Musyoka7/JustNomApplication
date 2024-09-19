@@ -1,0 +1,67 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net7.0": []
+  },
+  "packageFolders": {
+    "/Users/alexmusyoka/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/alexmusyoka/Downloads/capstone-project-just-nom-Musyoka7-Final_Submission 2/capstone-project-just-nom-Musyoka7/JustNomApplication/JustNomApplication/JustNomApplication.csproj",
+      "projectName": "JustNomApplication",
+      "projectPath": "/Users/alexmusyoka/Downloads/capstone-project-just-nom-Musyoka7-Final_Submission 2/capstone-project-just-nom-Musyoka7/JustNomApplication/JustNomApplication/JustNomApplication.csproj",
+      "packagesPath": "/Users/alexmusyoka/.nuget/packages/",
+      "outputPath": "/Users/alexmusyoka/Downloads/capstone-project-just-nom-Musyoka7-Final_Submission 2/capstone-project-just-nom-Musyoka7/JustNomApplication/JustNomApplication/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/alexmusyoka/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "/usr/local/share/dotnet/library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
